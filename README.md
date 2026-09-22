@@ -19,8 +19,8 @@ Links between blocks were automatically generated in Vivado before validating th
 |   0   |   0   |   1   |   0   |   0   |   0   |   0   |   0   |    0   |    1   |    0   |
 |   0   |   1   |   0   |   0   |   0   |   0   |   0   |   0   |    0   |    0   |    1   |
 |   1   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |    1   |    1   |    1   |
-|   0   |   0   |   1   |   1   |   bin ctr   |   -   |   -   |   -   |    0   |    0   |    0   |
-|   1   |   1   |   0   |   0   |   ring ctr   |   -   |   -   |   -   |    1   |    0   |    0   |
+|   0   |   0   |   1   |   1   |   bin ctr   |   bin ctr   |   bin ctr   |   bin ctr   |    0   |    0   |    0   |
+|   1   |   1   |   0   |   0   |   ring ctr   |   ring ctr   |   ring ctr   |   ring ctr   |    1   |    0   |    0   |
 
 where "bin ctr" suggests the 4 LEDs display a 4-bit binary counter up to 15, and "ring ctr" suggests the LEDs display a ring counter where the output shifts left and cycles over after the 4th bit.
 
