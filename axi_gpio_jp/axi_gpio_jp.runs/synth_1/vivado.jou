@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Sun Sep 20 16:09:00 2026
+# Process ID: 20456
+# Current directory: C:/Xilinx/ECE520/02-AXI_GPIO/axi_gpio_jp/axi_gpio_jp.runs/synth_1
+# Command line: vivado.exe -log axi_gpio_jp_wrapper.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source axi_gpio_jp_wrapper.tcl
+# Log file: C:/Xilinx/ECE520/02-AXI_GPIO/axi_gpio_jp/axi_gpio_jp.runs/synth_1/axi_gpio_jp_wrapper.vds
+# Journal file: C:/Xilinx/ECE520/02-AXI_GPIO/axi_gpio_jp/axi_gpio_jp.runs/synth_1\vivado.jou
+# Running On: JC-DellPrem, OS: Windows, CPU Frequency: 3686 MHz, CPU Physical cores: 16, Host memory: 33777 MB
+#-----------------------------------------------------------
+source axi_gpio_jp_wrapper.tcl -notrace
